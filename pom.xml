@@ -8,7 +8,7 @@
 		<version>2.3.12.RELEASE</version>
 		<relativePath/>
 	</parent>
-	<groupId>com.hust</groupId>
+	<groupId>com.zoloy</groupId>
 	<artifactId>WhatToEat</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>WhatToEat</name>

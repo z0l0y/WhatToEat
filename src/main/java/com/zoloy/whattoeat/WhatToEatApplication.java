@@ -1,4 +1,4 @@
-package com.hust.whattoeat;
+package com.zoloy.whattoeat;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
